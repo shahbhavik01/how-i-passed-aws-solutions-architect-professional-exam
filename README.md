@@ -123,68 +123,67 @@ https://acloud.guru/
 # Section 5. Do you know what the following terms mean? All these are not just AWS terminology. Knowing what they mean should help you towards the exam and becoming more knowledgable about AWS and surrounding technologies. (These is not an exhaustive list and these are in no particular order)
 
 
-Row-locking
-Contention 
-Vault Lock APIs on Glacier
-Large Binary Objects (BLOBs)
-Different DynamoDB Indices (Global secondary index and Local secondary index)
-Views in RDS
-OLAP vs OLTP. 
-Ephemeral ports
-Memcached vs Redis 
-EFS Shares
-EFS Mount targets
-EFS lifecycle policies and storage classes
-Different types of storage gateways
-• FILE
-• Volume Gateway
-	• Cached
-	• Stored
-• Tape Gateway
-Pub/Sub
-Lazy writes
-Cloudfront SNI
-Partition Placement Group
-Perpetual Consistency vs Eventual Consistency
-DynamoDB Accelerator? (DAX?)
-What are jumbo frames?
-NFS vs SMB
-iSCSI
-AWS Service Catalog
-FQDN
-Types Route 53 health checks
-Personal health dashboard
-Delete markers on s3 
-Canonical data models
-"Brown Field" situation
-IDS/IPS
-Eventbridge
-Fargate
-Hard Cost vs Soft Cost
-IOPS vs Mb/S 
-Scalable EBS
-Amazon AppStream 2.0 stacks and fleets
-Consistent hashing
-JDBC/ODBC 
-Cloudformation Stackset
-AD Connector
-AWS SSO
-Properties of ELB
-Properties of Auto Scaling and it's terminology
-AWS Elastic Beanstalk
-Properties of Cloudfront
-AWS Step Functions
-Redshift Spectrum
-Cloudfront with dynamic content
-Session Data
-Cost Optimization Monitor
-AWS Cost Explorer
-AWS Instance Scheduler
-AWS data pipeline
-Kinesis Firehose
-Kinesis Streams
-AWS CodePipeline
-AWS CodeStar
-Direct Connect Gateway
-SOAP vs REST APIs
-Route Propagation
+· Row-locking
+· Contention
+· Vault Lock APIs on Glacier
+· Large Binary Objects (BLOBs)
+· Different DynamoDB Indices (Global secondary index and Local secondary index)
+· Views in RDS
+· OLAP vs OLTP. 
+· Ephemeral ports
+· Memcached vs Redis 
+· EFS Shares
+· EFS Mount targets
+· EFS lifecycle policies and storage classes
+· Different types of storage gateways
+· • FILE
+· • Volume Gateway
+· • Cached
+· • Stored
+· • Tape Gateway
+· Pub/Sub
+· Lazy writes
+· Cloudfront SNI
+· Partition Placement Group
+· Perpetual Consistency vs Eventual Consistency
+· DynamoDB Accelerator? (DAX?)
+· What are jumbo frames?
+· NFS vs SMB
+· iSCSI
+· AWS Service Catalog
+· FQDN
+· Types Route 53 health checks
+· Personal health dashboard
+· Delete markers on s3 
+· Canonical data models
+· "Brown Field" situation
+· IDS/IPS
+· Eventbridge
+· Fargate
+· Hard Cost vs Soft Cost
+· IOPS vs Mb/S 
+· Scalable EBS
+· Amazon AppStream 2.0 stacks and fleets
+· Consistent hashing
+· Route Propagation 
+· Cloudformation Stackset
+· AD Connector
+· AWS SSO
+· Properties of ELB
+· Properties of Auto Scaling and it's terminology
+· AWS Elastic Beanstalk
+· Properties of Cloudfront
+· AWS Step Functions
+· Redshift Spectrum
+· Cloudfront with dynamic content
+· Session Data
+· Cost Optimization Monitor
+· AWS Cost Explorer
+· AWS Instance Scheduler
+· AWS data pipeline
+· Kinesis Firehose
+· Kinesis Streams
+· AWS CodePipeline
+· AWS CodeStar
+· Direct Connect Gateway
+· SOAP vs REST APIs
