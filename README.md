@@ -1,138 +1,139 @@
-# how-i-passed-aws-solutions-architect-professional-exam
-How I studied for and passed the AWS Solutions Architect Professional Exam
+# Overview
 
-# Section 1. ACloudGuru Course
+This guide contains all the resources I used, plus my recommendations for how to study for the AWS - Solutions Architect Professional Exam. I took and passed the exam in October 2019.
 
-I took the following acloudguru course. This is a great overview of all the material covered in the exam. Allow me to reiterate, this is an OVERVIEW. It is, in no way, comprehensive of everything needed to pass this exam. I still highly recommend starting with this as it is a great guide to give you a sense of the exam. 
+# 1. ACloudGuru Course
 
-[A Cloud Guru - Solutions Architect Professional][https://acloud.guru/learn/aws-certified-solutions-architect-professional]
+I started by taking the following acloudguru course. This is a great overview of all the material covered in the exam. Allow me to reiterate, this is an OVERVIEW. It is, in no way, a comprehensive of all material needed to pass this exam. I highly recommend starting with this as it is a great guide to give you a sense of the exam. 
+
+[A Cloud Guru - Solutions Architect Professional Course](https://acloud.guru/learn/aws-certified-solutions-architect-professional)
 
 
-# Section 2. Re:Invent Videos
+# 2. Re:Invent Videos
 I watched the following re:invent videos. Yes, the list is long. I believe this covers 
 I suggest watching them at 1.5x the speed. I found that 1.5x is fast enough to help get through the videos quickly yet slow enough to be able to comprehend the material.
 
 
-https://www.youtube.com/watch?v=msxD0bTFu2A (Microservices)
+[Microservices on AWS](https://www.youtube.com/watch?v=msxD0bTFu2A)
 
-https://www.youtube.com/watch?v=SUWqDOnXeDw (S3 and Glacier Deep Dive)
+[S3 and Glacier Deep Dive](https://www.youtube.com/watch?v=SUWqDOnXeDw)
 
-https://www.youtube.com/watch?v=TJxC-B9Q9tQ (RDS Deep Dive)
+[RDS Deep Dive](https://www.youtube.com/watch?v=TJxC-B9Q9tQ)
 
-https://www.youtube.com/watch?v=_YYBdsuUq2M (Elasticache)
+[Elasticache Deep Dive](https://www.youtube.com/watch?v=_YYBdsuUq2M)
 
-https://www.youtube.com/watch?v=9wgaV70FeaM (Storage Gateway)
+[Storage Gateway](https://www.youtube.com/watch?v=9wgaV70FeaM)
 
-https://www.youtube.com/watch?v=KGKrVO9xlqI (Networking VPCs together)
+[Cost Optimization](https://www.youtube.com/watch?v=XQFweGjK_-o)
 
-https://www.youtube.com/watch?v=8gc2DgBqo9U (Data flow through AWS)
+[Networking VPCs together](https://www.youtube.com/watch?v=KGKrVO9xlqI)
 
-https://www.youtube.com/watch?v=z0FBGIT1Ub4 (Network Load Balancer)
+[Network Load Balancer](https://www.youtube.com/watch?v=z0FBGIT1Ub4)
 
-https://www.youtube.com/watch?v=uj7Ting6Ckk (Amazon Global Network)
+[Security Anti-patterns: Mistakes to avoid](https://www.youtube.com/watch?v=tzJmE_Jlas0)
 
-https://www.youtube.com/watch?v=tzJmE_Jlas0 (Security Anti-patterns: Mistakes to avoid)
+[Security across Multiple Accounts](https://www.youtube.com/watch?v=71fD8Oenwxc)
 
-https://www.youtube.com/watch?v=9TwkMMogojY (ELB deep dive)
+[ELB Deep Dive](https://www.youtube.com/watch?v=9TwkMMogojY)
 
-https://www.youtube.com/watch?v=71fD8Oenwxc (Security across multi-account) 
+[Assessing Readiness to Migrate at Scale](https://www.youtube.com/watch?v=id-PY0GBHXA)
 
-https://www.youtube.com/watch?v=id-PY0GBHXA (Assessing Readiness to migrate at scale)
+[Migrating Databases and Data Warehouses to Cloud](https://www.youtube.com/watch?v=Y33TviLMBFY)
 
-https://www.youtube.com/watch?v=Y33TviLMBFY (Migrating databases and data warehouses to cloud)
+[Models of availability](https://www.youtube.com/watch?v=xc_PZ5OPXcc)
 
-https://www.youtube.com/watch?v=w95murBkYmU (How to Scale to 10 mil users)
+[Multi-region active-active Architecture](https://www.youtube.com/watch?v=RMrfzR4zyM4)
 
-https://www.youtube.com/watch?v=xc_PZ5OPXcc (Models of availability)
+[Disaster Recovery](https://www.youtube.com/watch?v=a7EMou07hRc)
 
-https://www.youtube.com/watch?v=RMrfzR4zyM4 (Multi-region active-active architecture)
+[Cloudformation Deep Dive](https://www.youtube.com/watch?v=01hy48R9Kr8)
 
-https://www.youtube.com/watch?v=a7EMou07hRc (Disaster recovery)
+[Docker and ECS on AWS](https://www.youtube.com/watch?v=Qik9LBktjgs)
 
-https://www.youtube.com/watch?v=01hy48R9Kr8 (Cloudformation deep dive)
+[CI best practices](https://www.youtube.com/watch?v=GEPJ7Lo346A)
 
-https://www.youtube.com/watch?v=Qik9LBktjgs (Docker and ECS)
+[Building a Business Case](https://www.youtube.com/watch?v=CcspJkc7zqg)
 
-https://www.youtube.com/watch?v=GEPJ7Lo346A (CI best practices)
+[How to Scale to 10 Million Users](https://www.youtube.com/watch?v=w95murBkYmU)
 
-https://www.youtube.com/watch?v=CcspJkc7zqg (Building a business case)
+[Amazon Global Network](https://www.youtube.com/watch?v=uj7Ting6Ckk)
 
-https://www.youtube.com/watch?v=XQFweGjK_-o (Cost Optimization)
+[How Data flows through AWS](https://www.youtube.com/watch?v=8gc2DgBqo9U)
 
+# 3. Whitepapers
 
-# Section 3. Whitepapers
-
-These are to all the whitepapers I read, took notes of and reviewed close to the exam.
+These are to all the whitepapers I read, took notes of and reviewed closer to the exam.
 It is tough to actually read all of these as it is a lot of material. You may skim through them but you must be really attentive/focused as you do so. There is a lot of little details in these whitepapers; details that are crucial to passing the exam. 
 
-https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf
+[AWS Storage Services](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
 
-https://d1.awsstatic.com/whitepapers/Multi_Tenant_SaaS_Storage_Strategies.pdf
+[Multi-Tenant SaaS Storage Strategies](https://d1.awsstatic.com/whitepapers/Multi_Tenant_SaaS_Storage_Strategies.pdf)
 
-https://d0.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf
+[Performance at Scale with Elasticache](https://d0.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf)
 
-http://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf
+[Securing Data at Rest with Encryption](http://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
 
-http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu
+[Migrating to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu)
 
-https://d0.awsstatic.com/whitepapers/aws-amazon-vpc-connectivity-options.pdf
+[VPC Connectivity Options](https://d0.awsstatic.com/whitepapers/aws-amazon-vpc-connectivity-options.pdf)
 
-https://d1.awsstatic.com/whitepapers/Networking/integrating-aws-with-multiprotocol-label-switching.pdf
+[Multiprotocol Label Switching](https://d1.awsstatic.com/whitepapers/Networking/integrating-aws-with-multiprotocol-label-switching.pdf)
 
-https://d1.awsstatic.com/whitepapers/Security/Networking_Security_Whitepaper.pdf
+[Networking Security](https://d1.awsstatic.com/whitepapers/Security/Networking_Security_Whitepaper.pdf)
 
-https://d1.awsstatic.com/aws-answers/AWS_Multi_Account_Security_Strategy.pdf
+[Multi Account Strategy](https://d1.awsstatic.com/aws-answers/AWS_Multi_Account_Security_Strategy.pdf)
 
-https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf 
+[Migration](https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf)
 
-https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf 
+[Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 
-https://d1.awsstatic.com/whitepapers/Migration/migrating-applications-to-aws.pdf 
+[Migrating Applications to AWS](https://d1.awsstatic.com/whitepapers/Migration/migrating-applications-to-aws.pdf)
 
-https://d1.awsstatic.com/whitepapers/AWS-Cloud-Transformation-Maturity-Model.pdf 
+[Cloud Transformation Maturity Model](https://d1.awsstatic.com/whitepapers/AWS-Cloud-Transformation-Maturity-Model.pdf)
 
-https://d1.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf 
+[Web Hosting Best Practices](https://d1.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
 
-https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf
+[Scalable Gaming Patterns](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 
-https://d1.awsstatic.com/whitepapers/cost-optimization-automating-elasticity.pdf
+[Cost Optimization - Automating Elasticity](https://d1.awsstatic.com/whitepapers/cost-optimization-automating-elasticity.pdf)
 
-https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+[AWS - Well Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 
-https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf 
+[Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
 
-https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf
+[Backup and Recovery Approaches on AWS](https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf)
 
-https://d1.awsstatic.com/whitepapers/getting-started-with-amazon-aurora.pdf
+[Amazon Aurora](https://d1.awsstatic.com/whitepapers/getting-started-with-amazon-aurora.pdf)
 
-https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
+[Reliability Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
 
-https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf
+[Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
 
-https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+[Continuous Integration and Delivery](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
 
-https://d1.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf 
+[Deployment Options](https://d1.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf)
 
-https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+[Cost Optimization Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
 
-https://d1.awsstatic.com/whitepapers/total-cost-of-operation-benefits-using-aws.pdf
+[Total Cost of Ownership](https://d1.awsstatic.com/whitepapers/total-cost-of-operation-benefits-using-aws.pdf)
 
-https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf
+[Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 
 
-# Section 4. How to approach the exam
+# 4. How to approach the exam
 
 I went through this amazing, short, FREE course created by AWS:
 
-https://www.aws.training/Details/eLearning?id=34737
+[Exam Readiness: AWS Certified Solutions Architect – Professional](https://www.aws.training/Details/eLearning?id=34737)
 
 This course assumes that you have strong knowledge of the exam material. This course DOES NOT cover exam material. Instead, this course is about how to approach the different questions in the exam. It breaks down the thought process of those who answer these very challenging questions correctly. I highly recommend going through this course after you have gone through the above mentioned videos and whitepapers.
 
 
-# Section 5. Terminology
+# 5. Terminology
 
-Do you know what the following terms mean? All these are not just AWS terminology. Knowing what they mean should help you in the exam. I felt that knowing these helped me be more knowledgable about AWS and surrounding technologies. (These is not an exhaustive list and these are in no particular order)
+As I was studying for the exam, I came across a lot of terminology. I made a point of noting and researching the ones that I didn't know. I highly suggest you do the same. 
 
+Here is a list of the ones that I didn't know when I started studying. I would recommend that you go through this and create one of your own as you're studying for the exam.
 
 * Row-locking
 * Contention
@@ -157,7 +158,7 @@ Do you know what the following terms mean? All these are not just AWS terminolog
 * Cloudfront SNI
 * Partition Placement Group
 * Perpetual Consistency vs Eventual Consistency
-* DynamoDB Accelerator? (DAX?)
+* DynamoDB Accelerator? (DAX)
 * What are jumbo frames?
 * NFS vs SMB
 * iSCSI
