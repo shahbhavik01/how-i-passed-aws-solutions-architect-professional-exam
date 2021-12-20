@@ -13,7 +13,6 @@ I started by taking the following acloudguru course. This is a great overview of
 I watched the following re:invent videos. Yes, the list is long. I believe this covers 
 I suggest watching them at 1.5x the speed. I found that 1.5x is fast enough to help get through the videos quickly yet slow enough to be able to comprehend the material.
 
-
 [Microservices on AWS](https://www.youtube.com/watch?v=msxD0bTFu2A)
 
 [S3 and Glacier Deep Dive](https://www.youtube.com/watch?v=SUWqDOnXeDw)
